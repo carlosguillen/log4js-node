@@ -33,7 +33,9 @@
     "semver": "~4.3.3"
   },
   "devDependencies": {
+    "hapi": "^8.4.0",
     "sandboxed-module": "0.1.3",
+    "underscore": "1.2.1",
     "vows": "0.7.0"
   },
   "browser": {
